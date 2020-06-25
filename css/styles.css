@@ -16,3 +16,8 @@ h1 {
 h3{
     color: #654062;
 }
+
+img {
+  height: 200px;
+  width: 200px;
+}
